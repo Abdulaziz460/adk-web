@@ -35,7 +35,7 @@
     "uuidv7": "^1.0.2",
     "vanilla-jsoneditor": "^3.6.0",
     "yaml": "^2.8.0",
-    "zod": "^4.4.3",
+    "zod": "^4.6.7",
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
